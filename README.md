@@ -41,4 +41,3 @@ The website is designed with a clean UI, smooth interactions, and a recruiter-fr
 - Contact section for recruiters  
 - Fast performance and SEO-friendly  
 
----
