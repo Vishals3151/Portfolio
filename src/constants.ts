@@ -258,7 +258,7 @@ export const PROJECTS: Project[] = [
     description:
       "A responsive personal portfolio website designed to showcase my projects, skills, achievements, and resume. Focused on clean UI, smooth interactions, and clear presentation for recruiters and internship opportunities.",
     tags: ["React", "Tailwind CSS", "Typescript", "Framer Motion"],
-    imageUrl: "/images/portfolio.png",
+    imageUrl: "/images/Portfolio.png",
     demoUrl: "#",
     repoUrl: "https://github.com/Vishals3151/Portfolio",
     category: "Web App",
