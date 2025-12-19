@@ -260,7 +260,7 @@ export const PROJECTS: Project[] = [
     tags: ["React", "Tailwind CSS", "Typescript", "Framer Motion"],
     imageUrl: "/images/portfolio.png",
     demoUrl: "#",
-    repoUrl: "#",
+    repoUrl: "https://github.com/Vishals3151/Portfolio",
     category: "Web App",
   },
   {
