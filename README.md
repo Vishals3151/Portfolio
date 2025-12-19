@@ -42,18 +42,3 @@ The website is designed with a clean UI, smooth interactions, and a recruiter-fr
 - Fast performance and SEO-friendly  
 
 ---
-
-## 📁 Project Structure
-
-```bash
-portfolio/
-├── public/
-│   └── images/
-├── src/
-│   ├── components/
-│   ├── sections/
-│   ├── data/
-│   ├── styles/
-│   └── pages/
-├── README.md
-└── package.json
