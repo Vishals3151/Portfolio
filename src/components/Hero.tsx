@@ -11,14 +11,12 @@ const Hero: React.FC = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [typingSpeed, setTypingSpeed] = useState(150);
 
-  // Roles to cycle through
-  const roles = [
-    HERO_DATA.role,
-    "Programmer and Problem Solver",
-
-  ];
-
   useEffect(() => {
+    const roles = [
+      HERO_DATA.role,
+      "Programmer and Problem Solver",
+    ];
+
     const handleType = () => {
       const i = loopNum % roles.length;
       const fullText = roles[i];
@@ -45,7 +43,7 @@ const Hero: React.FC = () => {
     const timer = setTimeout(handleType, typingSpeed);
 
     return () => clearTimeout(timer);
-  }, [text, isDeleting, loopNum, typingSpeed, roles]);
+  }, [text, isDeleting, loopNum, typingSpeed]);
 
   useEffect(() => {
     const canvas = canvasRef.current;

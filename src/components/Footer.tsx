@@ -4,7 +4,6 @@ import {
   Linkedin,
   Twitter,
   Instagram,
-  Heart,
   Mail,
   ArrowUp,
 } from "lucide-react";

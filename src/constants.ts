@@ -235,7 +235,7 @@ export const SKILLS: SkillCategory[] = [
 
 export const PROJECTS: Project[] = [
   {
-    title: "NexusAI (AI Meeting Platform)",
+    title: "NexusAI",
     description:
       "Built a full-stack AI-powered video conferencing platform where users can host meetings with autonomous AI agents acting as real-time participants. Integrated Stream.io for WebRTC-based video communication and used Groq API for fast, low-latency AI response generation. The platform supports secure authentication, custom AI agent personas, meeting recording, and transcript-based summary generation. Designed a scalable backend using tRPC and Neon PostgreSQL with Drizzle ORM, while optimizing performance by offloading media handling to external services.",
     tags: [
@@ -253,7 +253,7 @@ export const PROJECTS: Project[] = [
     imageUrl: "/images/nexusai.png",
     demoUrl: "https://nexus-ai-two-omega.vercel.app/",
     repoUrl: "https://github.com/Vishals3151/NexusAI",
-    category: "AI Web App",
+    category: "Web App",
   },
   {
     title: "Satyverse",

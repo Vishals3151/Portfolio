@@ -11,8 +11,7 @@ import {
   Ear,
   Server,
   Layers,
-  BookOpen,
-  Wrench
+  BookOpen
 } from 'lucide-react';
 import { SKILLS } from '../constants';
 
