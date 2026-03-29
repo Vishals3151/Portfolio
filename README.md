@@ -5,7 +5,7 @@ A modern, responsive personal portfolio website built to showcase my projects, t
 ---
 
 ## 🚀 Live Demo
-🔗 **Live Website:** _(Add your deployed portfolio link here)_
+🔗 **Live Website:** https://portfolio-gamma-six-k5kjhiys15.vercel.app/
 
 ---
 
